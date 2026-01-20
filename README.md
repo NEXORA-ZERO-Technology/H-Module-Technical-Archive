@@ -19,4 +19,4 @@ Subject to U.S. Provisional Patent Application  (Filed: December 18, 2025).
 
 **本專案所有技術邏輯與白皮書內容均維持 2025 年 12 月 29 日發布之原始版本 (v1.1)，以確保技術架構具一致性及美國臨時專利優先權主張 No.63/943,518**
 **本檔案僅用於學術資訊交流，未經授權禁止任何商業性質之複製、散佈或實作**
-**NEXORA ZERO™ 保留所有技術權利**
+**RuleCausaZero™ 保留所有技術權利**
