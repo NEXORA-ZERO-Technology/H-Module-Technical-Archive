@@ -8,19 +8,19 @@ The materials are provided "as is" without warranties of any kind, whether
 express or implied, including but not limited to merchantability, fitness for
 a particular purpose, or non-infringement.
 
-NEXORA ZERO™ assumes no responsibility or liability for any direct or indirect
+RuleCausaZero™ assumes no responsibility or liability for any direct or indirect
 use, implementation, interpretation, or reliance upon the information
 contained in this repository.
 
 No legal, regulatory, or professional advice is provided.
 
 ## Copyright Notice
-© 2026 NEXORA ZERO™ Technology Team. All rights reserved.
+© 2025-2026 RuleCausaZero™ Technology Team. All rights reserved.
 
 All contents of this repository, including but not limited to technical
 descriptions, architectural concepts, rule definitions, documentation,
 and written materials, are the exclusive intellectual property of
-NEXORA ZERO™.
+RuleCausaZero™.
 
 No license, express or implied, is granted. Unauthorized commercial use,
 reproduction, distribution, or derivative works are strictly prohibited.
